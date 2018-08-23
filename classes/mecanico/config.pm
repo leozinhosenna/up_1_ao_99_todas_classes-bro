@@ -6,8 +6,8 @@ sub configurarBuild {
         skillsClasse1T => '-1',
         skillsClasse2T => '-1',
         skillsClasse3 => '-1',
-        statsPadrao => '15 agi, 10 str, 10 vit, 10 dex, 20 agi, 20 dex, 20 str, 30 dex, 45 agi, 40 dex, 60 agi, 20 vit, 70 agi, 50 dex, 30 str, 80 agi, 40 str, 90 agi, 50 vit, 50 str, 42 luk',
-        statsPadraoTransclasse => '15 agi, 10 str, 10 vit, 10 dex, 5 luk, 25 agi, 20 str, 25 vit, 20 dex, 10 luk, 35 agi, 30 str, 30 dex, 20 luk, 50 str, 50 vit, 45 agi, 75 str, 60 agi, 34 vit, 80 agi',
+        statsPadrao => '20 dex, 10 str, 10 vit, 20 agi, 20 str, 30 dex, 45 agi, 40 dex, 60 agi, 20 vit, 70 agi, 50 dex, 30 str, 80 agi, 40 str, 90 agi, 50 vit, 50 str, 42 luk',
+        statsPadraoTransclasse => '20 dex, 20 vit, 20 str, 40 dex, 30 agi, 40 str, 60 dex, 50 vit, 50 str, 60 agi, 70 dex, 80 str, 80 dex, 90 agi, 100 str, 100 dex, 100 vit',
         statsPadraoClasse3 => '-1',
         lvlClasseParaVirarClasse2 => '50',
         lvlClasseParaVirarClasse2T => '50'
